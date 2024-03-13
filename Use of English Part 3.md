@@ -1,40 +1,44 @@
-# Use of English Part 3
+Use of English Part 3
 
-## Enfoque en el Tema
+## Transformación de palabras en contexto
 
-- **Temas de investigación o ciencia**: Cuando el texto trata sobre investigaciones o ciencia, es común encontrar palabras relacionadas con estudios, datos, o comportamiento.
+A continuación, se proporcionan ejemplos de cómo transformar una palabra base para adaptarla al contexto de una oración. Cada ejemplo incluye una breve explicación para entender el proceso.
 
-## Verbos y Derivados
+### Ejemplos
 
-- **Derivados de verbos**: Frecuentemente se necesitará convertir un verbo a otra forma gramatical como sustantivo, adjetivo o adverbio.
+- **CYCLE** (ciclo) -> **CYCLIST** (ciclista)
+  - Contexto: Se busca un sustantivo que describa a una persona.
+  - Ejemplo: "Él es un **ciclista** entusiasta."
 
-## Relaciones Familiares y Sociales
+- **POSSIBLE** (posible) -> **IMPOSSIBILITY** (imposibilidad)
+  - Contexto: Se requiere un sustantivo que denote la negación de una posibilidad.
+  - Ejemplo: "La **imposibilidad** de este proyecto lo hace aún más desafiante."
 
-- **Dinámica familiar**: Palabras que describen relaciones o estados emocionales en un contexto familiar.
+- **EXHAUST** (agotar) -> **EXHAUSTION** (agotamiento)
+  - Contexto: Se necesita un sustantivo que describa el estado de estar agotado.
+  - Ejemplo: "Después del maratón, experimentó un gran **agotamiento**."
 
-## Psicología y Comportamiento
+- **BREATH** (respirar) -> **BREATHLESS** (sin aliento)
+  - Contexto: Se busca un adjetivo que describa a alguien que no puede respirar fácilmente.
+  - Ejemplo: "Subió las escaleras tan rápido que llegó **sin aliento**."
 
-- **Rasgos psicológicos y emocionales**: Palabras que describen emociones, reacciones o rasgos de carácter.
+- **MARVEL** (maravillarse) -> **MARVELOUS** (maravilloso/a)
+  - Contexto: Se requiere un adjetivo que denote algo que causa gran admiración.
+  - Ejemplo: "La vista desde la montaña era **maravillosa**."
 
-## Estructuras y Expresiones Comunes
+- **PLEASE** (agradar) -> **PLEASING** (agradable)
+  - Contexto: Se necesita un adjetivo que indique algo que produce placer o satisfacción.
+  - Ejemplo: "La melodía de la canción es muy **agradable**."
 
-- **Expresiones con preposiciones**: Algunas expresiones que incluyen preposiciones pueden requerir una forma específica de una palabra.
+- **EQUAL** (igual) -> **EQUALITY** (igualdad)
+  - Contexto: Se busca un sustantivo que represente el concepto de ser igual en derechos, estatus, etc.
+  - Ejemplo: "Luchamos por la **igualdad** de oportunidades para todos."
 
-## Adjetivos y Adverbios
+Para detectar qué tipo de palabra se necesita, debes prestar atención a las siguientes pistas en la oración:
 
-- **Adjetivos y adverbios relacionados con la certeza**: Buscar adjetivos o adverbios que indiquen niveles de confianza o seguridad.
+1. **Contexto gramatical**: Mira la estructura de la oración para determinar si se necesita un sustantivo, adjetivo, adverbio, etc.
+2. **Preposiciones y artículos**: Estos pueden indicar si se requiere un sustantivo (p.ej. "la **maravilla**") o adjetivo (p.ej. "algo **maravilloso**").
+3. **Sufijos comunes**: Por ejemplo, "-ness" indica un sustantivo, "-ly" un adverbio, "-able/-ible" un adjetivo, etc.
+4. **Palabras circundantes**: Verbos como "ser" o "estar" suelen ir seguidos de adjetivos, mientras que los sustantivos a menudo van acompañados de un artículo o preposición.
 
-## Nombres y Sustantivos
-
-- **Nombres relacionados con actitudes o estados**: Pueden aparecer sustantivos que se refieren a actitudes o estados mentales.
-
-## Consejos Generales
-
-- **Sinónimos**: A menudo se necesita encontrar un sinónimo que encaje gramaticalmente en el texto.
-- **Matices de significado**: A veces la palabra correcta es la que tiene el matiz de significado exacto que encaja en el contexto, incluso si hay varias opciones posibles.
-- **Atención al detalle**: Las pequeñas pistas en el texto pueden cambiar completamente la palabra que se necesita, como un artículo que indique si la palabra debería ser contable o incontable.
-
-## Consideraciones Contextuales
-
-- **Fluidez del texto**: La palabra correcta debería permitir que la oración fluya de manera coherente y comprensible.
-- **Consistencia en el texto**: La palabra elegida debe estar en línea con el tono y el estilo del resto del texto.
+Practica identificando estas pistas en diferentes oraciones para mejorar tu habilidad en la transformación de palabras.
