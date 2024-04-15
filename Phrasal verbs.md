@@ -18,6 +18,9 @@
 - break off - romper
 - break out - estallar (enfermedad, guerra)
 - break up - terminar una relación / desintegrarse
+- **break away (from) - separarse de**
+- **break through - lograr un avance importante**
+- **be out of - estar sin / quedarse sin**
 
 ## BRING, CARRY
 
@@ -61,6 +64,7 @@
 - be cut off - quedar aislado
 - cut out - eliminar / recortar
 - cut up - cortar en pedazos
+- **cut through - atravesar (literal o figurativamente)**
 
 ## DO, FALL
 
@@ -84,151 +88,182 @@
 ## GET, GIVE
 
 - get about - moverse / difundirse
-- get sth across - hacer entender
-- get away (from) - escapar (de)
+- get across - hacer entender
+- get ahead - progresar
 - get along (with) - llevarse bien (con)
+- get around - evitar / circular
 - get at - insinuar / llegar a
-- get away with sth - salirse con la suya
-- get sb down - deprimir
-- get off - bajarse / evitar
-- get on - subirse / envejecer
-- get on with - continuar / llevarse bien
-- get over - superar
-- get (a)round - evitar / circular
-- get through - superar / comunicarse
+- get away - escapar
+- get away with - salirse con la suya
+- get back - regresar
+- get by - arreglárselas
+- get down - deprimir / bajar
+- get in - entrar
+- get into - meterse en
+- get off - bajarse / empezar
+- get on - subirse / envejecer / progresar
+- get out - salir
+- get over - superar / recuperarse de
+- get through - superar / terminar
+- get up - levantarse
 - give away - regalar / revelar
-- give off - emitir
 - give back - devolver
 - give in - rendirse / ceder
+- give off - emitir
 - give out - agotarse / repartir
 - give up - rendirse / dejar de hacer algo
+- give way to - ceder el paso a
 
 ## GO, HOLD
 
-- go about with - andar con
+- go about - ocuparse de
+- go after - perseguir
+- go against - oponerse a
 - go ahead - proceder
-- go back on - retractarse de
-- go down with - enfermar de
+- go along with - estar de acuerdo con
+- go around - circular
+- go away - irse
+- go back - regresar
+- go down - bajar / reducirse
 - go for - optar por / atacar
-- go in for - participar en / interesarse por
-- go off - explotar / estropearse
-- go out - salir / extinguirse
-- go over - repasar / examinar
-- go round - bastar / circular
-- hold back - retener / ocultar
+- go in - entrar
+- go into - investigar / entrar en
+- go off - explotar / apagarse
+- go on - continuar
+- go out - salir
+- go over - revisar
+- go through - pasar por / sufrir
+- go under - hundirse
+- go up - subir
+- hold back - retener / contener
+- hold down - mantener bajo control
+- hold off - aplazar
 - hold on - esperar / agarrarse
-- hold out - resistir / ofrecer
-- hold up - sostener / retrasar
+- hold out - resistir
+- hold up - sostener / retrasar / asaltar
 
 ## KEEP, LET
 
-- keep at sth - insistir en
-- keep away (from) - mantenerse alejado (de)
-- keep back - retener / guardar
-- keep behind - retener después de clase
-- keep sb/sth down - mantener bajo / suprimir
-- keep (oneself) from - abstenerse de
-- keep in with - mantener buenas relaciones con
-- keep sb/sth off - mantener alejado
+- keep at - persistir en
+- keep away - mantenerse alejado
+- keep back - retener
+- keep down - mantener bajo / suprimir
+- keep from - abstenerse de
+- keep in - contener / mantener dentro
+- keep off - mantenerse fuera de
 - keep on - continuar
-- keep up with - seguir el ritmo a
-- let sth down - bajar algo
-- let sb down - decepcionar
-- let sb off - perdonar / dejar ir
+- keep out - excluir
+- keep up - mantener el nivel
+- let down - decepcionar / bajar
+- let in - permitir entrar
+- let off - perdonar / dejar ir
 - let on - revelar / fingir
-- let out - soltar / ampliar (ropa)
-- let up - amainar / disminuir
+- let out - soltar / ampliar
+- let through - dejar pasar
+- let up - disminuir / parar (temporalmente)
 
 ## LOOK, MAKE
 
 - look after - cuidar de
+- look at - mirar a
 - look down on - despreciar
 - look for - buscar
 - look forward to - esperar con ilusión
 - look into - investigar
-- look on - observar
-- look out (for) - tener cuidado (con)
-- look over - revisar / examinar
-- look through - examinar / ignorar
-- look up - buscar (información)
+- look on - ser espectador
+- look out - tener cuidado
+- look over - revisar
+- look through - ojear / ignorar
+- look up - buscar información
+- make do with - arreglárselas con
 - make for - dirigirse a
-- make up - compensar / inventar
-- make oneself up - maquillarse
+- make of - entender / interpretar
+- make out - distinguir / pretender
+- make up - inventar / compensar
 - make up for - compensar
-- make out - entender / fingir
 
 ## PUT, RUN
 
 - put aside - apartar / ahorrar
-- put away - guardar / encerrar
-- put down - anotar / humillar
-- put forward - proponer / adelantar
-- put off - posponer / desanimar
+- put away - guardar
+- put down - anotar / reprimir
+- put forward - proponer
+- put in - instalar / invertir
+- put off - posponer
 - put on - ponerse / engañar
-- put out - extinguir / molestar
-- put through - conectar / someter a
-- put up - alojar / levantar
+- put out - apagar / incomodar
+- put through - conectar / hacer pasar
+- put up - levantar / hospedar
 - put up with - tolerar
-- run across - encontrarse con
 - run after - perseguir
-- run away with - huir con
+- run away - huir
 - run down - atropellar / criticar
-- run into - encontrarse con / chocar
+- run into - encontrarse con
+- run off - huir / imprimir
 - run out of - quedarse sin
 - run over - atropellar / repasar
-- run up against - enfrentarse a
 - run through - repasar / gastar rápidamente
+- run up - acumular
+
+Claro, aquí continúa la lista completada de phrasal verbs desde las secciones "SEE, SET":
 
 ## SEE, SET
 
 - see about - ocuparse de
-- see sb off - despedir
-- see sb out - acompañar a la salida
-- see over - inspeccionar
-- see through sb/sth - ver el verdadero carácter / no dejarse engañar
-- see sb through - apoyar hasta el final
-- see to - encargarse de
+- see off - despedir
+- see out - acompañar a la salida
+- see through - ver el verdadero carácter / no dejarse engañar
+- see to - asegurarse de
 - set about - empezar a hacer
+- set apart - distinguir
 - set aside - reservar / apartar
-- set back - retrasar / costar
-- set out - partir / exponer
-- set in - establecerse / comenzar
-- set on - atacar / incitar
+- set back - retrasar
+- set down - establecer / anotar
+- set in - comenzar y parecer que va a continuar
+- set off - partir / provocar
+- set out - exponer / comenzar un viaje
 - set up - establecer / montar
 
 ## STAND, TAKE
 
+- stand aside - hacerse a un lado
 - stand by - apoyar / estar listo
+- stand down - renunciar (en un contexto legal o militar)
 - stand for - representar / tolerar
-- stand in for - sustituir
+- stand in - sustituir
 - stand out - destacar
+- stand up - levantarse
 - stand up for - defender
-- stand up to - resistir / enfrentarse a
-- be taken aback - sorprenderse
+- stand up to - resistir
 - take after - parecerse a
-- take sth back - retirar algo dicho
-- take down - anotar / desmontar
-- take in - engañar / comprender
-- take for - tomar por / considerar
-- take off - despegar / tener éxito
-- take on - asumir / contratar
-- take sb out - sacar a alguien
-- take over - tomar el control
-- take to - tomar cariño / empezar a
-- take up - empezar una actividad / ocupar
+- take apart - desmontar
+- take back - retirar / devolver
+- take down - derribar / anotar
+- take in - engañar / absorber
+- take off - despegar / quitarse
+- take on - asumir / emplear
+- take out - sacar / invitar a salir
+- take over - tomar control
+- take to - empezar a gustar / acostumbrarse
+- take up - comenzar un hobby / ocupar espacio
 
 ## TURN, WORK
 
-- turn away - rechazar / desviar
-- turn down - rechazar / bajar (volumen)
-- turn in - entregar / acostarse
+- turn around - darse vuelta
+- turn away - rechazar / desviar la mirada
+- turn down - rechazar / bajar (volumen, intensidad)
+- turn in - entregar / irse a dormir
 - turn into - convertirse en
-- turn off - apagar / desviar
-- turn on - encender / emocionar
-- turn out - resultar / desalojar
-- turn to - recurrir a
-- turn over - volcar / ceder
+- turn off - apagar
+- turn on - encender
+- turn out - resultar / apagar
+- turn over - voltear / ceder el control
 - turn up - aparecer / subir (volumen)
-- work on - trabajar en
-- work out - resolver / ejercitarse
-- work up - elaborar / excitarse
+- work around - encontrar una solución pese a los problemas
+- work at - trabajar en (algo que requiere esfuerzo)
+- work in - trabajar dentro de (una industria)
+- work on - trabajar en (un proyecto)
+- work out - resolver / hacer ejercicio
+- work through - resolver problemas / trabajar detalladamente
+- work up - desarrollar / llegar a (un estado de emoción)
+
